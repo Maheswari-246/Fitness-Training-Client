@@ -269,7 +269,7 @@ const AllClassesSection = () => {
                         Class Trainers
                       </h4>
                       <div className="flex flex-wrap gap-3">
-                        {classItem.trainer.flat().map((trainer) => (
+                        {classItem?.trainer?.flat()?.map((trainer) => (
                           <div
                             key={trainer.id}
                             className="relative group/trainer"

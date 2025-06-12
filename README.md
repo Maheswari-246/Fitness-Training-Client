@@ -20,6 +20,11 @@ The purpose of this project is to create an innovative fitness tracker platform 
 
 The **Admin** has full control over user management, financials, and class creation:
 
+**LoginCredentials**
+
+**UserName=** mahemahesh2808@gmail.com
+**Password=** Pass@1234
+
 ### 1. **Newsletter Subscribers**
    - View all newsletter subscribers in a table.
 
